@@ -1,8 +1,30 @@
-# 🐍 curso-python-ciencia-dados
+# 📊 Curso Introdutório de Python para Ciência de Dados
 
-Bem-vindo ao repositório do **Curso de Python para Ciência de Dados**! Aqui você encontrará todos os materiais necessários para acompanhar as aulas, praticar com exercícios e aprofundar seus conhecimentos em análise de dados com Python.
+Este repositório contém o material completo do curso prático de introdução ao Python voltado à análise e exploração de dados. Este projeto foi desenvolvido como parte da Atividade Extensionista da disciplina de Ciência de Dados (T326) da Universidade de Fortaleza (UNIFOR).
 
----
+## 🎯 Descrição do Curso
+
+O curso foi desenhado para democratizar o acesso à tecnologia e formar a base analítica de estudantes, profissionais em transição de carreira e interessados em programação. Com uma abordagem pedagógica "mão na massa", combinamos explicações teóricas detalhadas com aplicações imediatas em dados reais.
+
+## 📂 Estrutura do Repositório
+
+O material está organizado de forma progressiva:
+
+- **`/modulo-1` - Fundamentos de Python:** Sintaxe básica, variáveis, estruturas condicionais e de repetição.
+- **`/modulo-2` - Manipulação de Dados:** Introdução ao poderoso pacote `pandas`, limpeza, transformação e estatística descritiva.
+- **`/modulo-3` - Visualização de Dados:** Criação de gráficos impactantes com `matplotlib` e `seaborn`, seguindo boas práticas de design de informação.
+- **`/modulo-4` - Projeto Final (EDA):** Análise Exploratória de Dados completa utilizando o **Brazilian Cities Dataset**. Aplicação de storytelling com dados para responder perguntas reais de negócio sobre o IDHM no Brasil.
+- **`/datasets`:** Base de dados utilizada nos exemplos e no projeto final.
+
+## 🔗 Links Importantes
+
+- **Apresentação do Curso (Slides):** `[Insira o link do seu Google Slides/Canva aqui]`
+- **Vídeos Complementares:** `[Insira links do YouTube caso tenham gravado aulas]`
+- **Formulário de Avaliação de Impacto:** `[Insira o link do Google Forms aqui]`
+
+## 🚀 Como Executar o Projeto
+
+Para reproduzir os notebooks e rodar as análises em sua máquina, siga os passos abaixo:
 
 ## 📦 Como clonar o repositório
 
@@ -40,7 +62,6 @@ curso-python-ciencia-dados/
 ├── notebooks/                 # Jupyter Notebooks com as aulas e exemplos
 ├── slides/                    # Apresentações de apoio às aulas
 ├── README.md                  # Este arquivo
-└── materiais_complementares.txt  # Links e referências extras
 ```
 
 ### 📂 Detalhamento das pastas
