@@ -16,12 +16,6 @@ O material está organizado de forma progressiva:
 - **`/modulo-4` - Projeto Final (EDA):** Análise Exploratória de Dados completa utilizando o **Brazilian Cities Dataset**. Aplicação de storytelling com dados para responder perguntas reais de negócio sobre o IDHM no Brasil.
 - **`/datasets`:** Base de dados utilizada nos exemplos e no projeto final.
 
-## 🔗 Links Importantes
-
-- **Apresentação do Curso (Slides):** `[Insira o link do seu Google Slides/Canva aqui]`
-- **Vídeos Complementares:** `[Insira links do YouTube caso tenham gravado aulas]`
-- **Formulário de Avaliação de Impacto:** `[Insira o link do Google Forms aqui]`
-
 ## 🚀 Como Executar o Projeto
 
 Para reproduzir os notebooks e rodar as análises em sua máquina, siga os passos abaixo:
